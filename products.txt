@@ -1,2 +1,5 @@
-Apple,5.00
-Banana,2.00
+Apple,1.2
+Banana,5.6
+Mango,5.6
+Orange,2.5
+Rambutan,1.69
